@@ -1,0 +1,61 @@
+.container {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    width: 150px;
+    height: 100px;
+    font-size: 75px;
+    border-radius: 10px;
+    margin:10px;
+    background-color: black;
+    color:#fff;
+    border-style:none;
+    cursor: pointer;
+
+}
+
+
+#calcform {
+    margin-left: 270px;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+
+}
+
+#display {
+    background-color:#1f80c9 ;
+    width: 675px;
+    height: 100px;
+    text-align: center;
+
+}
+
+#plus {
+    background-color: #cc5c11;
+}
+
+#minus {
+    background-color: #ba55d3;
+}
+
+#times {
+    background-color: #7db1b2;
+}
+
+#divide {
+    background-color: green;
+}
+
+#clear {
+    background-color: #cc0000;
+}
