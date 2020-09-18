@@ -3372,7 +3372,9 @@ input[type="button"].btn-block {
 .card-body {
   flex: 1 1 auto;
   min-height: 1px;
-  padding: 1.25rem; }
+  padding: 1.25rem; 
+  font-size: 12px;
+}
 
 .card-title {
   margin-bottom: 0.75rem; }
@@ -10609,7 +10611,7 @@ h3.global-white {
   color: var(--primary-color); }
 
 .w3l-services2 .features-with-17-left_sur {
-  background: url(../images/proff.jpg) no-repeat center;
+  background: url(../images/Esste.jpg) no-repeat center;
   background-size: cover;
   background-attachment: scroll;
   min-height: 640px; }
@@ -11762,9 +11764,15 @@ div#small-dialog iframe {
   margin-bottom: 10px; }
 
 .w3l-testimonials .customers-6-content p.card-text {
-  font-size: 18px;
+  font-size: 14px;
   line-height: 32px;
   color: var(--title-color); }
+
+.w3l-testimonials .customers-6-content p.card-text-sam {
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--title-color); }
+  
 
 .w3l-testimonials .customers-6-content .card {
   padding: 20px 20px;
